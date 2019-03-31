@@ -1,0 +1,16 @@
+{
+    "name": "chunyang/role-price",
+    "description": "商品促销价格设置",
+    "authors": [
+        {
+            "name": "chunyang",
+            "email": "lchunyangl@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Chunyang\\RolePrice\\": "src/"
+        }
+    }
+}
