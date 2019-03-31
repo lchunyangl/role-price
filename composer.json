@@ -1,6 +1,7 @@
 {
     "name": "chunyang/role-price",
     "description": "商品促销价格设置",
+    "license": "MIT",
     "authors": [
         {
             "name": "chunyang",
